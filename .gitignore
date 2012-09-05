@@ -10,3 +10,7 @@
 *.lai
 *.la
 *.a
+
+# YoloSURF stuff
+surf
+find_obj
